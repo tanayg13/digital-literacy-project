@@ -1,0 +1,15 @@
+Stay Safe Online
+
+• Use a strong, unique password for every account and never reuse it across platforms.
+• Enable Two-Factor Authentication (2FA) on all important accounts.
+• Never click on links from unknown senders received via SMS, WhatsApp, or email.
+• Always check that a website URL starts with https:// before entering any personal details.
+• Avoid using public Wi-Fi for banking, UPI payments, or logging into sensitive accounts.
+• Keep your phone, apps, and antivirus software updated at all times.
+• Never enter your UPI PIN to "receive" money — you only need your PIN to send money.
+• Never share your UPI PIN, OTP, CVV, or bank details with anyone, including bank helpline callers.
+• Always verify the recipient's UPI ID or QR code carefully before confirming a payment.
+
+Report cybercrime immediately through:
+  - National Cyber Crime Portal: https://www.cybercrime.gov.in
+  - Helpline: 1930
